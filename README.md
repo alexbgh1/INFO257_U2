@@ -18,4 +18,7 @@
 <h3>Librerías R</h3>
 <ul>
   <li>install.packages("corrplot")</li>
+  <li>install.packages("cluster")</li>
+  <li>install.packages("mclust")</li>
+  <li>install.packages("kohonen")</li>
 </ul>
